@@ -13,3 +13,4 @@ We've started the process of bringing together various communities using this fo
 * Mozilla
 * Acorn https://github.com/marijnh/acorn
 * Esprima https://github.com/jquery/esprima
+* Michael Ficarra ([@michaelficarra](https://github.com/michaelficarra))
